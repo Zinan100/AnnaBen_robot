@@ -5,7 +5,7 @@ Very Sempil Bot Auto Filter bot
 # 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 fork👇👇👇
 
 
-[![Deploy](https://telegra.ph/file/d35d46c4b9f7bfc79564e.jpg)](https://github.com/Zinan100/AnnaBen_robot000/fork)
+[![Deploy](https://telegra.ph/file/d35d46c4b9f7bfc79564e.jpg)](https://github.com/Lallu-lallus/AnnaBen_robot/fork)
 
 - [x] Auto Filter
 - [x] Manuel Filter
